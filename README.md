@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehedi</h1>
 <h3 align="center">A passionate learner from Bangladesh</h3>
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **C#**
 
 - 📫 How to reach me **hasanmehedi63395@gmail.com**
 
