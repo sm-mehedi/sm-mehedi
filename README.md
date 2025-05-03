@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m interested in cloud engineering<br>🌱 I’m currently learning frontend development<br>💬 Ask me about my Bachelor's degree in Computer Science and Engineering<br>
+🔭 I’m interested in cloud engineering<br>💬 Ask me about my Bachelor's degree in Computer Science and Engineering<br>
 
 
 ## 🌐 Socials:
